@@ -12,7 +12,7 @@ making use of the space on the right hand side of the hero image will shorten an
 Adding an email capture form will make the call to action more prominent and will lead to more people completing live account application form
 
 ### targeting
-:round_pushpin: https://www.cityindex.co.uk/trading/spread-betting-cfd-trading/
+:round_pushpin: https://www.cityindex.co.uk/trading/spread-betting-cfd-trading/        
 :round_pushpin: https://www.applyforanaccount.cityindex.co.uk/ciuk/sbcfd-step-1.aspx
 
 ### devices
