@@ -5,15 +5,15 @@
 Some of the key information on the page is hidden below the fold, therefore users who do not scroll will miss this information
 
 ### pages
-www.cityindex.co.uk/trading/spread-betting-cfd-trading/
+:round_pushpin:  www.cityindex.co.uk/trading/spread-betting-cfd-trading/
 
 ### hypothesis
 making use of the space on the right hand side of the hero image will shorten and put all the selling points in front of the user without having to scroll.  
 Adding an email capture form will make the call to action more prominent and will lead to more people completing live account application form
 
 ### targeting
-- https://www.cityindex.co.uk/trading/spread-betting-cfd-trading/
-- https://www.applyforanaccount.cityindex.co.uk/ciuk/sbcfd-step-1.aspx
+:round_pushpin: https://www.cityindex.co.uk/trading/spread-betting-cfd-trading/
+:round_pushpin: https://www.applyforanaccount.cityindex.co.uk/ciuk/sbcfd-step-1.aspx
 
 ### devices
 - desktop
