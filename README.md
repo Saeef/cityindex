@@ -32,10 +32,10 @@ Adding an email capture form will make the call to action more prominent and wil
 
 
 <kbd>mobile</kbd>  :mag:
- ![](cityindex/src/mobilev1.png)
+ ![](/src/mobilev1.png)
 
 <kbd>desktop</kbd> :mag:
-![](cityindex/src/desktopv1.png)
+![](/src/desktopv1.png)
 
 
 
