@@ -1,4 +1,5 @@
-#  Gain Capital - Landing Page Hero Enhancement - Spread Betting
+#  Gain Capital
+#### Landing Page Hero Enhancement - Spread Betting
 
 ### evidence
 Some of the key information on the page is hidden below the fold, therefore users who do not scroll will miss this information
@@ -31,10 +32,10 @@ Adding an email capture form will make the call to action more prominent and wil
 - div display to none and appended clone to new location for mobile)
 
 
-<kbd>mobile</kbd>  :mag:
+<kbd>mobile</kbd>  :mag:            
  ![](/src/mobilev1.png)
 
-<kbd>desktop</kbd> :mag:
+<kbd>desktop</kbd> :mag:          
 ![](/src/desktopv1.png)
 
 
