@@ -32,10 +32,10 @@ Adding an email capture form will make the call to action more prominent and wil
 
 
 <kfd>mobile</kfd>
- [!]('cityindex/src/mobilev1.png')
+ [](cityindex/src/mobilev1.png)
 
 <kfd>desktop</kfd>
-[!]('cityindex/src/desktopv1.png')
+[](cityindex/src/desktopv1.png)
 
 
 
