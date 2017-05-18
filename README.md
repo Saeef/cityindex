@@ -28,7 +28,7 @@ Adding an email capture form will make the call to action more prominent and wil
 
 ### notes
 - completed using javascript (no frameworks).     
-- pretty straight forward. The most complicated bit, I guesbds it would have to be the first row; which I ended up cloning it for mobile, in order to get the background color right. (Cloned, then set original div display to none and appended clone to new location for mobile)
+- pretty straight forward. The most complicated bit, I guess it would have to be the first row; which I ended up cloning it for mobile, in order to get the background color right. (Cloned, then set original div display to none and appended clone to new location for mobile)
 
 
 <kbd>mobile</kbd>  :mag:            
