@@ -71,7 +71,7 @@
             var he3 = document.querySelectorAll('.multi-col__subtitle')[2];
             he3.innerText = "Start trading";
             //desc
-            var he = document.querySelectorAll('.multi-col__description');
+            var de = document.querySelectorAll('.multi-col__description');
             var de1 = document.querySelectorAll('.multi-col__description')[0];
             de1.innerText = "You can apply for an account right now by filling in our short online application form. It only takes a few minutes";
             var de2 = document.querySelectorAll('.multi-col__description')[1];
